@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width" />
+		<link href="~/css/w3.css" rel="stylesheet" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
+
+		<style>
+			body, html {
+				height: 100%;
+				font-family: "Inconsolata", sans-serif;
+			}
+
+			.bgimg {
+				background-position: center;
+				background-size: cover;
+				width: 100%;
+				min-height: 75%;
+			}
+
+			.menu{
+				display: none;
+			}
+		</style>
+		<title>@ViewBag.Title</title>
+	</head>
+	<body>
+
+		<div class="w3-top">
+			<div class="w3-row w3-padding w3-black">
+				<div class="w3-col s4">
+					<a href="#" class="w3-button w3-block w3-black">HOME</a>
+				</div>
+				<div class="w3-col s4">
+					<a href="#about" class="w3-button w3-block w3-black">ABOUT</a>
+				</div>
+				<div class="w3-col s4">
+					<a href="#products" class="w3-button w3-block w3-black">PRODUCTS</a>
+				</div>
+			</div>
+		</div>
+
+		<div>
+			@RenderBody()
+		</div>
+	</body>
+</html>
