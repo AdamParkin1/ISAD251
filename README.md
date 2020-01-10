@@ -21,11 +21,10 @@ https://youtu.be/wYv7MpUxsvI
 
 ## Screenshots
 ![Homepage](Screenshots/Homepage.png)
-![OrderMenu](Screenshots/Menu.png)
+![HomeInternetExplorer](Screenshots/HomeIE.png)
 ![Cart](Screenshots/Cart.png)
-![MenuItem](Screenshots/MenuItem.png)
+![Menu](Screenshots/Menu.png)
 ![HomeChrome](Screenshots/HomeChrome.png)
-![HomeIE](Screenshots/HomeIE.png)
 
 **
 
