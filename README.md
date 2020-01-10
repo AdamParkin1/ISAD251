@@ -20,7 +20,12 @@ All interactable elements such as the menu ordering and navigation bar work iden
 https://youtu.be/wYv7MpUxsvI
 
 ## Screenshots
-
+![Homepage](Screenshots/Homepage.png)
+![OrderMenu](Screenshots/Menu.png)
+![Cart](Screenshots/Cart.png)
+![MenuItem](Screenshots/MenuItem.png)
+![HomeChrome](Screenshots/HomeChrome.png)
+![HomeIE](Screenshots/HomeIE.png)
 
 **
 
