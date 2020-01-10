@@ -24,9 +24,7 @@ https://youtu.be/wYv7MpUxsvI
 ![HomeInternetExplorer](Screenshots/HomeIE.png)
 ![Cart](Screenshots/Cart.png)
 ![Menu](Screenshots/Menu.png)
-![HomeChrome](Screenshots/HomeChrome.png)
 
-**
 
 ## Credits
 Credit for the website template: https://www.w3schools.com/
